@@ -22,27 +22,11 @@ createServer({
         },
         {
           id: 2,
-          title: "Freelancer de Identidade Visual",
-          type: "deposit",
-          category: "Dev",
-          amount: 280.35,
-          createdAt: new Date("02-12-2021 11:00:00"),
-        },
-        {
-          id: 3,
           title: "Aluguel",
           type: "withdraw",
           category: "Casa",
-          amount: 1350.08,
+          amount: 1280.05,
           createdAt: new Date("03-12-2021 19:00:00"),
-        },
-        {
-          id: 4,
-          title: "Condominio",
-          type: "withdraw",
-          category: "Casa",
-          amount: 350,
-          createdAt: new Date("03-13-2021 17:00:00"),
         },
       ],
     });
